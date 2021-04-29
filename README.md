@@ -1,6 +1,6 @@
 # pynse
 
-Library to extract publicaly available realtime and historical data from NSE website.
+Library to extract publicly available real-time and historical data from NSE website.
 
 ## Installation
 
