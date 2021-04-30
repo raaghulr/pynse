@@ -2,6 +2,7 @@
 
 Library to extract publicly available real-time and historical data from NSE website.
 
+For instructions watch this video-
 [![Watch the video](https://img.youtube.com/vi/JXe7ymh5KTI/hqdefault.jpg)](https://youtu.be/JXe7ymh5KTI)
 
 
