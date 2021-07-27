@@ -170,7 +170,8 @@ class Nse:
                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626 Safari/537.36',
                    'Accept-Encoding': 'gzip, deflate, br',
                    'Accept-Language': 'en-US;q=0.5,en;q=0.3',
-                   'DNT': '1'}
+                   'DNT': '1',
+                   'referer':'https://www.nseindia.com'}
         # use global timeout if not specified
         timeout = self.timeout if timeout == 0 else timeout
 
