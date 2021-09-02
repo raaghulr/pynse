@@ -2,8 +2,15 @@
 
 Library to extract publicly available real-time and historical data from NSE website.
 
-For instructions watch this video-
+Bhavcopy & Option Chain Analysis
+
+[![Watch the video](https://img.youtube.com/vi/h1ZT7_zdUls/hqdefault.jpg)](https://youtu.be/h1ZT7_zdUls)
+
+ pyNSE Tytorial
+
 [![Watch the video](https://img.youtube.com/vi/JXe7ymh5KTI/hqdefault.jpg)](https://youtu.be/JXe7ymh5KTI)
+
+
 
 
 ## Installation
